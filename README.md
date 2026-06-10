@@ -278,21 +278,4 @@ def parse_weight(col_name):
 
 ---
 
-## Resumen de Ejercicios
-
-| # | Target | Modelo | Dificultad | Concepto clave |
-|---|--------|--------|-----------|----------------|
-| 1 | `Weight` | Regresión lineal simple | 🟢 | Pipeline básico, preprocesamiento |
-| 2 | `Pac` | Regresión lineal múltiple | 🟢 | VectorAssembler, StandardScaler |
-| 3 | `Str` | Regresión lineal + correlación | 🟢 | Selección de features manual |
-| 4 | `Tec` | Regresión lineal + encoding | 🟡 | StringIndexer, OneHotEncoder |
-| 5 | `Fin` | Ridge vs. Lasso | 🟡 | Regularización, ElasticNet |
-| 6 | `Vis` | Árbol de Decisión | 🟡 | No-linealidad, maxDepth |
-| 7 | `Det` | Random Forest | 🟡 | Ensembles, featureImportances |
-| 8 | `Ldr` | GBT + CrossValidator | 🔴 | Hyperparameter tuning |
-| 9 | `Transfer Value` | Random Forest (pipeline completo) | 🔴 | Preprocesamiento complejo |
-| 10 | `Agi` | Comparación multi-modelo | 🔴 | Model selection sistemática |
-
----
-
-*Curso Big Data Analytics — 650044 | Semestre 2026-1*
+*Curso Analítica con Big Data — ULima | Semestre 2026-1*
